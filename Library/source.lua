@@ -34,7 +34,7 @@ local Library = {
 		Legacy = {
 			Main = Color3.fromRGB(20, 20, 20),
            		Secondary = Color3.fromRGB(30, 30, 30),
-           		Tertiary = Color3.fromRGB(255, 0, 0),
+           		Tertiary = Color3.fromRGB(38, 90, 181),
 
             		StrongText = Color3.fromHSV(0, 0, 1),        
            		WeakText = Color3.fromHSV(0, 0, 172/255)
