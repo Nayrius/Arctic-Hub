@@ -11,7 +11,7 @@
 - **Nayr (Nayr#3597)**, *'Main Scripter'*
 
 
-### Scripts :
+### Script :
 ```LUA
 local Response = "Script hasn't been released yet"
 print(tostring(Response))
