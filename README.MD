@@ -14,4 +14,5 @@
 ### Scripts :
 ```LUA
 local Response = "Script hasn't been released yet"
-print(tostring(Response))```
+print(tostring(Response))
+```
