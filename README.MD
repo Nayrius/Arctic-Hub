@@ -8,8 +8,8 @@
 - Friendly community.
 - Decent game support.
 ### Credits
-- **Nayr (Nayr#3597)**, *'Main Scripter'*
-
+- **Main Scripter** Nayr (Nayr#3597)
+- **Obfuscator** MoonSec
 
 ### Script :
 ```LUA
