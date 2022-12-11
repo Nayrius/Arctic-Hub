@@ -809,6 +809,16 @@ function Library:create(options)
 		TextXAlignment = Enum.TextXAlignment.Left,
 		Text = tostring(os.date("%X")):sub(1, os.date("%X"):len()-3)
 	})
+	local License = profile:object("TextLabel", {
+		BackgroundTransparency = 1,
+		Position = UDim2.new(0, 107, 1, -10),
+		Size = UDim2.new(0, 400,0, 20),
+		AnchorPoint = Vector2.new(0, 1),
+		Theme = {TextColor3 = {"WeakText", -20}},
+		TextScaled = true,
+		TextXAlignment = Enum.TextXAlignment.Left,
+		Text = "License : "..getgenv().License
+	})
 
 	do
 		local desiredInterval = 1
