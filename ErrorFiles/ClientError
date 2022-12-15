@@ -1,0 +1,9 @@
+You're having the "Client" Error, This means you are not using our recommended executor (fluxus), Please use Fluxus, Script-Ware or Synapse (x)
+
+If you don't wish to do so please use this method.
+Before the loadstring write this code.
+
+getgenv().CrackSettings = {
+  ['ID'] = "OCEAN_7233",
+  ['BypassRS'] == "CLIENTFUNCTIONERROR_"
+}
